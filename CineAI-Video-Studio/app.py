@@ -1,4 +1,3 @@
-python
 # ============================================================
 # 🎬 PREMIUM AI VIDEO STUDIO
 # Streamlit + Groq
